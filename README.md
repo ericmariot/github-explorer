@@ -9,6 +9,6 @@ More about: https://www.typescriptlang.org/
 More about: https://styled-components.com/
 
 ## :grey_exclamation: About the project 
-It's used to search repositories created by you or other users and listing them, also saving on local storage.
+It's used to search repositories created by you or other users and listing them, also saving data to local storage.
 
-Created with the help of Rocketseat | Gostack course. Implemented some things and tweaks.
+Created with the help of Rocketseat | Gostack course.
